@@ -17,6 +17,34 @@
 
 ---
 
+## 🚀 Featured Project — NΛKΛNØ Bot
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=NΛKΛNØ%20BOT&fontSize=35&fontColor=ffffff" />
+</p>
+
+> ⚡ A powerful, modular Discord system designed for automation, management, and advanced server control.
+
+---
+
+## 🧠 Overview
+
+NΛKΛNØ is not just a bot — it's a **complete ecosystem** for Discord servers, combining moderation, automation, economy, and UI-driven systems into one scalable solution.
+
+---
+
+## ⚙️ Core Systems
+
+### 🛡️ Moderation Engine
+```md
+- Ban / Kick / Timeout / Jail system
+- Auto re-jail on rejoin
+- Anti-abuse protections (links, @everyone, tokens)
+- Full moderation logs with custom panels
+
+```
+---
+
 ## 🧰 Tech Stack
 Frontend
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> </p>
