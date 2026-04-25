@@ -94,7 +94,7 @@ A Discord music system with voice connection, queue, play, pause, skip, and stre
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FredoxyV1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ A Discord music system with voice connection, queue, play, pause, skip, and stre
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FredoxyV1&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -118,14 +118,8 @@ A Discord music system with voice connection, queue, play, pause, skip, and stre
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/FredoxyV1">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/YOUR_SERVER">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
